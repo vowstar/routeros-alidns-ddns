@@ -1,3 +1,6 @@
+# SPDX-License-Identifier: MIT
+# Copyright (c) 2026 Huang Rui
+#
 # alidns-ddns: keep A/AAAA records in Alibaba Cloud DNS current from RouterOS
 #
 # Configure the globals in the block immediately below this header

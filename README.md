@@ -225,6 +225,10 @@ This is troubleshooting, not a required setup step.
 - The IPv6 selection takes the first GUA on the interface; multiple GUAs or
   privacy/temporary addresses are not distinguished.
 
+## License
+
+MIT. See [LICENSE](LICENSE).
+
 ---
 
 # routeros-alidns-ddns（中文）
@@ -429,3 +433,7 @@ UTC 相差约 15 分钟以内。请启用 NTP（`/system ntp client set enabled=
 - 只管理 A 与 AAAA 记录，不支持 CNAME/TXT；正常流程假定记录已存在，不依赖
   自动创建。
 - IPv6 选择取接口上的第一个 GUA，不区分多 GUA、隐私地址或临时地址。
+
+## 许可证
+
+MIT，详见 [LICENSE](LICENSE)。
